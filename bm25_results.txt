@@ -1,0 +1,26 @@
+BM25 RETRIEVAL RESULTS
+==================================================
+
+Precision@K:
+Precision@1: 0.5717
+Precision@3: 0.3848
+Precision@5: 0.3015
+Precision@10: 0.2159
+
+Recall@K:
+Recall@1: 0.1957
+Recall@3: 0.3754
+Recall@5: 0.4698
+Recall@10: 0.6241
+
+F1@K:
+F1@1: 0.2916
+F1@3: 0.3801
+F1@5: 0.3673
+F1@10: 0.3209
+
+nDCG@K:
+nDCG@1: 0.5717
+nDCG@3: 0.4788
+nDCG@5: 0.5003
+nDCG@10: 0.5649
